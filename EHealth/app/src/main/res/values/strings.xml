@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EHealth</string>
+    <string name="email_phone">Email/Phone</string>
+    <string name="password">Password</string>
+    <string name="signin">signin</string>
+    <string name="create_new_acc">Don\'t have account? Create!</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="phone">Phone</string>
+    <string name="male">Male</string>
+    <string name="female">female</string>
+    <string name="kid">Kid</string>
+    <string name="parent">Parent</string>
+    <string name="next">Next</string>
+</resources>
